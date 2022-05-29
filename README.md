@@ -66,7 +66,7 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/pr
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
+- 🏠 [Website](https://smile0307personalsite.netlify.app/)
 - 🔥 [ReactNative](https://reactnative.dev/)
 - 🚀 [Firebase](https://firebase.google.com/)
 - 🎅 [CometChat](https://firebase.google.com/)
