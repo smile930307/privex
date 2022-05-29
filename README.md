@@ -62,7 +62,7 @@ To run the demo follow these steps:
 
 <br/>
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/privex/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/smile930307/privex/issues). We're here to help ✌️
 
 ## Useful links
 
