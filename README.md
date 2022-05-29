@@ -1,7 +1,7 @@
 # Build Privex: A Cross-Platform ReactNative Chat App
 
 
-Read the full tutorial here: [**>> Build Privex: A Cross-Platform ReactNative Chat App **](https://daltonic.github.io)
+Read the full tutorial here: (https://medium.com/@smile0307/build-privex-a-cross-platform-reactnative-chat-app-2ff413dc1ca7)
 
 This example shows Build Privex: A Cross-Platform ReactNative Chat App
 :
@@ -29,7 +29,7 @@ This demo uses:
 
 To run the demo follow these steps:
 
-1. Clone the github project on the terminal `git clone https://github.com/Daltonic/privex`.
+1. Clone the github project on the terminal `git clone https://github.com/smile930307/privex.git`.
 2. Open the project in VSCode and replace the firebase config object with yours from firebase.
    ```js
    const firebaseConfig = {
