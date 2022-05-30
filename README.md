@@ -1,7 +1,7 @@
 # Build Privex: A Cross-Platform ReactNative Chat App
 
 
-Read the full tutorial here: (https://medium.com/@smile0307/build-privex-a-cross-platform-reactnative-chat-app-2ff413dc1ca7)
+Read the full tutorial [here](https://medium.com/@smile0307/build-privex-a-cross-platform-reactnative-chat-app-2ff413dc1ca7)
 
 This example shows Build Privex: A Cross-Platform ReactNative Chat App
 :
